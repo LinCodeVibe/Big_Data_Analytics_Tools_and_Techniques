@@ -18,7 +18,7 @@ It focuses on:
 ---
 
 ## 🚀 Key Learning Outcomes
-By exploring this repository, you will be able to:
+By exploring this repository, you will find:
 - Analyze, manipulate, and process large-scale data using UNIX/Linux and other systems
 - Develop shell scripts for use in data-intensive applications
 - Build automated, reproducible data analysis pipelines
