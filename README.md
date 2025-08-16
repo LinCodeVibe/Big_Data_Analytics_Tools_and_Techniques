@@ -14,9 +14,3 @@ It focuses on:
 - **Cloud-based deployment** for large-scale data solutions
 - **Domain-specific applications** in business, finance, and science
 
-
----
-
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
